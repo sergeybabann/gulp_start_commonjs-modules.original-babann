@@ -1,0 +1,22 @@
+Версии:
+
+У автора версии:
+
+gulp: 4.0.2
+gulp-concat: 2.6.1
+gulp-sass: 5.1.0
+gulp-uglify-es: 3.0.0
+sass: 1.58.3 
+browsersync: 
+
+----------------------------------------------------------------------------------------------
+
+-------------------------- Commands ---------------------------------------- 
+function styles 
+command: gulp styles 
+
+function browsersync 
+command: gulp browsersync 
+
+
+
