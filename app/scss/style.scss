@@ -1,6 +1,8 @@
+@use '../../node_modules/swiper/swiper-bundle';
+
 body {
   padding: 100px;
-  background-color: red;
+  background-color: orange;
 }
 
 .header {
@@ -12,12 +14,12 @@ body {
 
 .main {
   padding: 100px;
-  background-color: yellow;
+  background-color: gray;
   height: 500px;
 }
 
 .footer {
-  background-color: green;
+  background-color: #000;
   color: red;
   padding: 20px;
   height: 300px;
